@@ -24,6 +24,7 @@ My work sits in the shift from Human-Computer Interaction to Human-AI Interactio
 |---|---|
 | **[handoff](https://github.com/murtuzabuilds/handoff)** | A human-in-the-loop LLM workflow agent. It plans, retrieves, reasons and acts, asks before anything irreversible, and learns which actions it has earned the right to take alone. |
 | **[nova](https://github.com/murtuzabuilds/nova)** | A context-aware voice assistant with memory and tool calling, running entirely in the browser. [Live demo →](https://murtuzabuilds.github.io/nova/) |
+| **[conatus](https://github.com/murtuzabuilds/conatus)** | An AI personal growth companion. It turns "who I want to become" into a chain of purpose, dated milestones, weekly actions and one daily habit, then coaches the next step. [Live demo →](https://murtuzabuilds.github.io/conatus/) |
 | **[pmkit](https://github.com/murtuzabuilds/pmkit)** | Small, honest PM tools: RICE that flags close calls, a PRD linter that catches unmeasurable goals, and win/loss dashboards. |
 
 ### How I work
