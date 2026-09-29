@@ -18,6 +18,13 @@ Digital transformation taught me where work actually breaks: in the manual hando
 
 ---
 
+### Flagship: Umbra
+
+<a href="https://murtuzabuilds.github.io/umbra/"><img src="https://raw.githubusercontent.com/murtuzabuilds/umbra/main/docs/totality.webp" alt="Umbra console" width="100%"></a>
+
+**[Umbra](https://github.com/murtuzabuilds/umbra): AI that governs AI.** We have made enough with AI; now we govern it. Umbra finds every AI tool and agent inside a company, stops sensitive data before it leaks with deterministic, explainable policy, gives every agent an owner and a mandate, and reads shadow AI as demand to produce the company's AI transformation roadmap. Its AI layer, Corona, drafts policy from plain English but never enforces alone.
+[Live console →](https://murtuzabuilds.github.io/umbra/) · [Case study →](https://murtuzabuilds.github.io/umbra/case-study.html)
+
 ### Things I've built
 
 Everything here is personal work, open source and tested. Client work at Deloitte and Lighthouse AI stays confidential.
