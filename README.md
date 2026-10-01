@@ -11,8 +11,8 @@ Digital transformation taught me where work actually breaks: in the manual hando
 
 ```text
 1M+      records structured through an API data pipeline      Lighthouse AI
-2,700+   user workflows automated with LLMs                   Deloitte · Zora AI
-74 → 83  usability score lift ahead of GTM launch             Hilti Fieldwire
+2,700+   user workflows automated with LLMs                   Deloitte          
+74 → 83  usability score lift ahead of GTM launch             Deloitte
 40M+     users on onboarding flows I redesigned               Tinder
 ```
 
