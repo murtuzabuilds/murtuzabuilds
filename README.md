@@ -25,12 +25,12 @@ Digital transformation taught me where work actually breaks: in the manual hando
 **[Umbra](https://github.com/murtuzabuilds/umbra)** uses AI to help govern AI inside a company. It finds the AI tools and agents people are using, stops sensitive data from being sent to them, gives each agent an owner and limits, and turns unapproved AI use into a plan for where to invest next. Its AI helper, Corona, drafts rules from plain English, and a person approves them.
 [Live console](https://murtuzabuilds.github.io/umbra/) · [Case study](https://murtuzabuilds.github.io/umbra/case-study.html)
 
-### Featured: Liminal
+### Featured: CardRight
 
-<a href="https://murtuzabuilds.github.io/liminal/"><img src="https://raw.githubusercontent.com/murtuzabuilds/liminal/main/docs/dispute.webp" alt="Liminal banking app" width="100%"></a>
+<a href="https://murtuzabuilds.github.io/cardright/"><img src="https://raw.githubusercontent.com/murtuzabuilds/cardright/main/docs/pay.webp" alt="CardRight app" width="100%"></a>
 
-**[Liminal](https://github.com/murtuzabuilds/liminal)** is a banking app that reshapes itself around what you came to do. Say "the hotel charged me twice" and the dispute arrives with both charges side by side and the form filled in: 3 taps instead of 9. Every block explains why it is there, it asks when it isn't sure, and nothing moves money without a yes.
-[Live demo](https://murtuzabuilds.github.io/liminal/) · [Case study](https://murtuzabuilds.github.io/liminal/case-study.html)
+**[CardRight](https://github.com/murtuzabuilds/cardright)** tells you which card to use for every purchase by counting what your cards cost you, not just what they pay you. It replays a year of spending, shows where money leaked, and ranks the moves worth making. In one replay, a "5% card" with a carried balance actually lost $554. No card numbers, no paid placements.
+[Live app](https://murtuzabuilds.github.io/cardright/) · [Case study](https://murtuzabuilds.github.io/cardright/case-study.html)
 
 ### Things I've built
 
