@@ -27,9 +27,9 @@ Digital transformation taught me where work actually breaks: in the manual hando
 
 ### Featured: CardRight
 
-<a href="https://murtuzabuilds.github.io/cardright/"><img src="https://raw.githubusercontent.com/murtuzabuilds/cardright/main/docs/pay.webp" alt="CardRight app" width="100%"></a>
+<a href="https://murtuzabuilds.github.io/cardright/"><img src="https://raw.githubusercontent.com/murtuzabuilds/cardright/main/docs/pay-jordan.webp" alt="CardRight app" width="100%"></a>
 
-**[CardRight](https://github.com/murtuzabuilds/cardright)** tells you which card to use for every purchase by counting what your cards cost you, not just what they pay you. It replays a year of spending, shows where money leaked, and ranks the moves worth making. In one replay, a "5% card" with a carried balance actually lost $554. No card numbers, no paid placements.
+**[CardRight](https://github.com/murtuzabuilds/cardright)** tells you which card to use for every purchase by counting what your cards cost you, not just what they pay you. It runs on 16 real cards with sourced terms and real store rules, replays a year of spending, and ranks the moves worth making. In one replay, a "5% card" with a carried balance actually lost $702. No card numbers, no paid placements.
 [Live app](https://murtuzabuilds.github.io/cardright/) · [Case study](https://murtuzabuilds.github.io/cardright/case-study.html)
 
 ### Things I've built
