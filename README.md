@@ -20,17 +20,17 @@ Digital transformation taught me where work actually breaks: in the manual hando
 
 ### Featured: Umbra
 
-<a href="https://murtuzabuilds.github.io/umbra/"><img src="https://raw.githubusercontent.com/murtuzabuilds/umbra/main/docs/totality.webp" alt="Umbra console" width="100%"></a>
+<a href="https://murtuzabuilds.com/umbra/"><img src="https://raw.githubusercontent.com/murtuzabuilds/umbra/main/docs/totality.webp" alt="Umbra console" width="100%"></a>
 
 **[Umbra](https://github.com/murtuzabuilds/umbra)** uses AI to help govern AI inside a company. It finds the AI tools and agents people are using, stops sensitive data from being sent to them, gives each agent an owner and limits, and turns unapproved AI use into a plan for where to invest next. Its AI helper, Corona, drafts rules from plain English, and a person approves them.
-[Live console](https://murtuzabuilds.github.io/umbra/) · [Case study](https://murtuzabuilds.github.io/umbra/case-study.html)
+[Live console](https://murtuzabuilds.com/umbra/) · [Case study](https://murtuzabuilds.com/umbra/case-study.html)
 
 ### Featured: CardRight
 
-<a href="https://murtuzabuilds.github.io/cardright/"><img src="https://raw.githubusercontent.com/murtuzabuilds/cardright/main/docs/pay-jordan.webp" alt="CardRight app" width="100%"></a>
+<a href="https://murtuzabuilds.com/cardright/"><img src="https://raw.githubusercontent.com/murtuzabuilds/cardright/main/docs/pay-jordan.webp" alt="CardRight app" width="100%"></a>
 
 **[CardRight](https://github.com/murtuzabuilds/cardright)** tells you which card to use for every purchase by counting what your cards cost you, not just what they pay you. It runs on 16 real cards with sourced terms and real store rules, replays a year of spending, and ranks the moves worth making. In one replay, a "5% card" with a carried balance actually lost $702. No card numbers, no paid placements.
-[Live app](https://murtuzabuilds.github.io/cardright/) · [Case study](https://murtuzabuilds.github.io/cardright/case-study.html)
+[Live app](https://murtuzabuilds.com/cardright/) · [Case study](https://murtuzabuilds.com/cardright/case-study.html)
 
 ### Things I've built
 
@@ -41,24 +41,24 @@ Everything here is personal work, open source and tested. Client work at Deloitt
 | Repo | What it is |
 |---|---|
 | **[handoff](https://github.com/murtuzabuilds/handoff)** | A human-in-the-loop LLM workflow agent. It plans, retrieves, reasons and acts, asks before anything irreversible, and learns which actions it has earned the right to take alone. |
-| **[nova](https://github.com/murtuzabuilds/nova)** | A context-aware voice assistant with memory, tool calling and a live decision trace, running entirely in the browser. [Live demo →](https://murtuzabuilds.github.io/nova/) |
-| **[conatus](https://github.com/murtuzabuilds/conatus)** | An AI personal growth companion. It turns "who I want to become" into a chain of purpose, dated milestones, weekly actions and one daily habit, then coaches the next step. [Live demo →](https://murtuzabuilds.github.io/conatus/) |
+| **[nova](https://github.com/murtuzabuilds/nova)** | A context-aware voice assistant with memory, tool calling and a live decision trace, running entirely in the browser. [Live demo →](https://murtuzabuilds.com/nova/) |
+| **[conatus](https://github.com/murtuzabuilds/conatus)** | An AI personal growth companion. It turns "who I want to become" into a chain of purpose, dated milestones, weekly actions and one daily habit, then coaches the next step. [Live demo →](https://murtuzabuilds.com/conatus/) |
 
 **Workflow automation: digital transformation, one workflow at a time**
 
 | Repo | What it is |
 |---|---|
-| **[prd-to-jira](https://github.com/murtuzabuilds/prd-to-jira)** | A PRD in, Jira epics and stories out. A parser with a linter, a CLI that pushes through the Jira REST API, and an importable n8n workflow. [Try the preview →](https://murtuzabuilds.github.io/prd-to-jira/) |
-| **[apply-engine](https://github.com/murtuzabuilds/apply-engine)** | React app that ranks roles by ATS match, career track and city, then suggests honest resume tailoring. [Live demo →](https://murtuzabuilds.github.io/apply-engine/) |
+| **[prd-to-jira](https://github.com/murtuzabuilds/prd-to-jira)** | A PRD in, Jira epics and stories out. A parser with a linter, a CLI that pushes through the Jira REST API, and an importable n8n workflow. [Try the preview →](https://murtuzabuilds.com/prd-to-jira/) |
+| **[apply-engine](https://github.com/murtuzabuilds/apply-engine)** | React app that ranks roles by ATS match, career track and city, then suggests honest resume tailoring. [Live demo →](https://murtuzabuilds.com/apply-engine/) |
 | **[pmkit](https://github.com/murtuzabuilds/pmkit)** | Small, honest PM tools: RICE that flags close calls, a PRD linter that catches unmeasurable goals, and win/loss dashboards. |
 
 **Design to code: my case studies, running**
 
 | Repo | What it is |
 |---|---|
-| **[athlevo](https://github.com/murtuzabuilds/athlevo)** | Book verified coaches, venues and events around your schedule. Each research finding became a rule in code. [Live →](https://murtuzabuilds.github.io/athlevo/) |
-| **[zentra](https://github.com/murtuzabuilds/zentra)** | A dopamine-smart focus buddy for Gen Z: streaks, XP and real distraction detection. [Live →](https://murtuzabuilds.github.io/zentra/) |
-| **[finpath](https://github.com/murtuzabuilds/finpath)** | A finance dashboard whose AI assistant runs real analysis on your spending. [Live →](https://murtuzabuilds.github.io/finpath/) |
+| **[athlevo](https://github.com/murtuzabuilds/athlevo)** | Book verified coaches, venues and events around your schedule. Each research finding became a rule in code. [Live →](https://murtuzabuilds.com/athlevo/) |
+| **[zentra](https://github.com/murtuzabuilds/zentra)** | A dopamine-smart focus buddy for Gen Z: streaks, XP and real distraction detection. [Live →](https://murtuzabuilds.com/zentra/) |
+| **[finpath](https://github.com/murtuzabuilds/finpath)** | A finance dashboard whose AI assistant runs real analysis on your spending. [Live →](https://murtuzabuilds.com/finpath/) |
 
 ### How I work
 
