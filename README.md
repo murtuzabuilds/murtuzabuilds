@@ -3,9 +3,9 @@
   <img alt="Murtuza. AI product management and digital transformation. From interfaces to intelligence." src="assets/header-light.svg" width="100%">
 </picture>
 
-### I build AI products from the data layer up.
+### I turn complex workflows into AI products people can trust.
 
-AI product manager and MBA candidate (Technology Strategy & Product Management) at the Wisconsin School of Business. Right now I'm a **Senior AI PM Intern at Lighthouse AI**, working on regulatory intelligence. Before that: about four years at **Deloitte** in product strategy and digital transformation, delivering enterprise AI, and product design at **Tinder**.
+AI product manager and MBA candidate (Technology Strategy & Product Management) at the Wisconsin School of Business. Right now I'm a **Senior AI PM Intern at Lighthouse AI**, working on regulatory intelligence. Before that: nearly five years at **Deloitte** in product strategy and digital transformation, and product design at **Tinder**.
 
 Digital transformation taught me where work actually breaks: in the manual handoffs between people, tools and data. AI product management is how I fix it now. My work sits in the shift from Human-Computer Interaction to Human-AI Interaction: deciding what the AI should do, what the person should decide, and how each one knows what the other is doing.
 
@@ -29,8 +29,10 @@ Digital transformation taught me where work actually breaks: in the manual hando
 
 <a href="https://murtuzabuilds.com/cardright/"><img src="https://raw.githubusercontent.com/murtuzabuilds/cardright/main/docs/pay-jordan.webp" alt="CardRight app" width="100%"></a>
 
-**[CardRight](https://github.com/murtuzabuilds/cardright)** tells you which card to use for every purchase by counting what your cards cost you, not just what they pay you. It runs on 16 real cards with sourced terms and real store rules, replays a year of spending, and ranks the moves worth making. In one replay, a "5% card" with a carried balance actually lost $702. No card numbers, no paid placements.
+**[CardRight](https://github.com/murtuzabuilds/cardright)** tells you which card to use for every purchase by counting what your cards cost you, not just what they pay you. It runs on 15 real cards with sourced terms and real store rules, replays a year of spending, and ranks the moves worth making. In one replay, a "5% card" with a carried balance actually lost $702. No card numbers, no paid placements.
 [Live app](https://murtuzabuilds.com/cardright/) · [Case study](https://murtuzabuilds.com/cardright/case-study.html)
+
+How I decide where a model belongs, how I choose one and how I test it, across these products: **[How I build AI products](https://murtuzabuilds.com/method/)**
 
 ### Things I've built
 
