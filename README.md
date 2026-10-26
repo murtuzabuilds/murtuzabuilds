@@ -12,7 +12,7 @@ Digital transformation taught me where work actually breaks: in the manual hando
 ```text
 1M+      records structured through an API data pipeline      Lighthouse AI
 2,700+   users on Zora AI, across 10+ business functions      Deloitte
-74 → 83  usability score lift ahead of GTM launch             Deloitte
+74 → 83  SUS usability score lift ahead of GTM launch         Deloitte
 11%      less drop-off in onboarding usability testing        Tinder
 ```
 
