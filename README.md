@@ -5,7 +5,7 @@
 
 ### I turn complex workflows into AI products people can trust.
 
-AI product manager and MBA candidate (Technology Strategy & Product Management) at the Wisconsin School of Business. Right now I'm a **Senior AI PM Intern at Lighthouse AI**, working on regulatory intelligence. Before that: nearly five years at **Deloitte** in product strategy and digital transformation, and product design at **Tinder**.
+AI product manager and MBA candidate (Technology Strategy & Product Management) at the Wisconsin School of Business. Right now I'm a **Senior AI PM Intern at Lighthouse AI**, working on regulatory intelligence. Before that: nearly five years at **Deloitte** in product strategy, and product design at **Tinder**.
 
 Digital transformation taught me where work actually breaks: in the manual handoffs between people, tools and data. AI product management is how I fix it now. My work sits in the shift from Human-Computer Interaction to Human-AI Interaction: deciding what the AI should do, what the person should decide, and how each one knows what the other is doing.
 
@@ -13,7 +13,7 @@ Digital transformation taught me where work actually breaks: in the manual hando
 1M+      records structured through an API data pipeline      Lighthouse AI
 2,700+   users on Zora AI, across 10+ business functions      Deloitte
 74 → 83  usability score lift ahead of GTM launch             Deloitte
-40M+     users on onboarding flows I redesigned               Tinder
+11%      less drop-off in onboarding usability testing        Tinder
 ```
 
 ---
